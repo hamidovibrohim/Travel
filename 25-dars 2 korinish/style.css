@@ -1,0 +1,35 @@
+body{padding: 0px;
+margin: 0px;
+background-color: rgb(117, 160, 240);
+text-align: center;}
+.menu a{
+text-decoration: none;
+color: #000;
+}
+.menu{display: flex;
+    justify-content: space-around;
+    padding: 20px 380px;
+    background-color: aqua;
+}
+.menu :hover{color: burlywood;}
+.tugma a{text-decoration: none;
+color: rgb(0, 0, 0);
+}
+.tugma{font-size: 20px;
+border-radius: 10px;
+border: 5;
+background-color: rgb(179, 184, 192);
+}
+h1{background-color:rgba(109, 174, 185, 0.534) ;
+padding: 10px;
+text-align: center;
+}
+h2{padding: 30px;
+background-color: rgba(255, 255, 255, 0.158);
+margin-left: 400px;
+margin-right: 400px;
+text-align: center;}
+
+h3{font-size: 30px;}
+p{font-size: 15px;}
+.yozuv{color: red;}
